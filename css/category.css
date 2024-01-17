@@ -1,0 +1,35 @@
+.page-title{
+    margin: 30px 0;
+}
+
+#myTable_length{
+    margin-bottom: 20px;
+}
+.add-category-btn{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    margin-bottom: 20px;
+}
+.add-category-btn button{
+    text-decoration: none;
+    background-color: #002366;
+    color:white;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: 0;
+}
+.btn-success, .btn-danger{
+    font-size: 15px;
+    padding: 4px 10px;
+}
+.modal-header {
+    background-color: #002366;
+    color: white;
+}
+.btn-primary{
+    background-color: #002366;
+    color: white;
+    padding: 7px 20px ;
+}

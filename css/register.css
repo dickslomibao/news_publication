@@ -1,0 +1,30 @@
+.page-title{
+    text-align: center;
+    margin: 5px 0 15px 0;
+}
+.register-container{
+    height: calc(100vh - 175px);
+    display: flex;
+    align-items: center;
+}
+.form-control{
+    margin: 5px 0;
+}
+.btn{
+    margin-top: 10px;
+    width: 100%;
+    background-color: #002366;
+    font-size: 15px;
+}
+.indicator{
+    text-align: center;
+}
+.login-content{
+    padding: 20px;
+}
+.error{
+    font-size: 14px;
+    color: red;
+    text-align: center;
+    margin: 5px 0;
+}
